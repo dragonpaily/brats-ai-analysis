@@ -1,0 +1,17 @@
+Python cache
+pycache/
+*.pyc
+
+IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+
+
+
+Notebook checkpoints
+.ipynb_checkpoints
+
+Large output files
+/analysis_output/
+/checkpoints/
